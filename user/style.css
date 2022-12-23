@@ -1,0 +1,12 @@
+.col-1 {
+     
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.col-1 img {
+    width: 19px;
+    border-radius: 33px;
+}
